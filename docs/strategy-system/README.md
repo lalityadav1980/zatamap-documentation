@@ -8,6 +8,8 @@
 **Revision:** 1.1 — 19 August 2026<br>
 **Scope:** NIFTY directional option buying in live, paper, and historical-replay modes
 
+[Project High-Level Design](../architecture/ZATAMAP_HIGH_LEVEL_DESIGN.md)
+
 > This paper describes a software decision architecture. It is not investment
 > advice, a claim of profitability, or evidence that historical performance will
 > generalize to future market regimes.

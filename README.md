@@ -11,6 +11,7 @@ The July 31 comparison is updated as each exact-commit replay completes.
 
 ## System Design
 
+- [Zatamap High-Level Design](docs/architecture/ZATAMAP_HIGH_LEVEL_DESIGN.md)
 - [Strategy and Trade Authority White Paper](docs/strategy-system/README.md)
   - [Discounted Volume-Weighted Average Price Recovery (DVR)](docs/strategy-system/DVR.md)
   - [Momentum Ride](docs/strategy-system/MOMENTUM_RIDE.md)
