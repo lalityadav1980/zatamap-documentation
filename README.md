@@ -11,6 +11,16 @@ The July 31 comparison is updated as each exact-commit replay completes.
 
 ## System Design
 
+- [Strategy and Trade Authority White Paper](docs/strategy-system/README.md)
+  - [Discounted Volume-Weighted Average Price Recovery (DVR)](docs/strategy-system/DVR.md)
+  - [Momentum Ride](docs/strategy-system/MOMENTUM_RIDE.md)
+  - [Trend-Reversal Stable Retry](docs/strategy-system/TR_STABLE_RETRY.md)
+  - [Central Decision Engine (CDE)](docs/strategy-system/CDE.md)
+  - [Market-Time Evidence Authority (MTEA)](docs/strategy-system/MTEA.md)
+  - [Central Trade Authority Kernel (CTAK)](docs/strategy-system/CTAK.md)
+  - [Position Exit Evidence Ledger (PEL)](docs/strategy-system/PEL.md)
+  - [PEL Thesis Lifecycle (PTL)](docs/strategy-system/PTL.md)
+  - [Reproducibility and Review Protocol](docs/strategy-system/REPRODUCIBILITY.md)
 - [Coordinator V2 design](COORDINATOR_V2_DESIGN.md)
 - [Support/resistance engine design](SR_ENGINE_DESIGN.md)
 - [Support/resistance zone engine](SR_ZONE_ENGINE_DOCUMENTATION.md)
